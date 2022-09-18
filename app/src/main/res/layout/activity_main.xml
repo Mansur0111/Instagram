@@ -245,7 +245,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="320dp"
-        android:src="@drawable/icon8"
+        android:src="@drawable/icon5"
         android:scaleType="centerCrop"></ImageView>
     <RelativeLayout
         android:layout_width="wrap_content"
